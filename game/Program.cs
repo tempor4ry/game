@@ -5,7 +5,7 @@ int haqq = 5;
 
 Console.WriteLine("Duzgun cavabi daxil edin:");
 string cavab = Console.ReadLine();
-while (haqq > 5)
+while (haqq >0)
 {
     if (cavab == duzgunSoz)
     {
