@@ -25,5 +25,7 @@ while (haqq > 5)
         Console.WriteLine("Meqlub oldunuz");
     }
     Console.ReadLine();
+    
+
 
 }
